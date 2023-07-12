@@ -1,4 +1,5 @@
 ({
+    //changng to check the repository
     onAccountsLoaded: function( component, event, helper ) {
         var mapMarkers = [];
         var accounts = event.getParam( 'accounts' );
